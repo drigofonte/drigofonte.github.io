@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="28.176378"
+   height="13.996488"
+   viewBox="0 0 28.176378 13.996487"
+   fill="none"
+   version="1.1"
+   id="svg838"
+   sodipodi:docname="rfc_white.svg"
+   inkscape:version="1.1-dev (0486c1a, 2020-10-10)"
+   inkscape:export-filename="/Users/rodrigo/Downloads/rfc_black.png"
+   inkscape:export-xdpi="190.79813"
+   inkscape:export-ydpi="190.79813"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="800"
+     id="namedview840"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="16.472225"
+     inkscape:cx="7.8920728"
+     inkscape:cy="1.214165"
+     inkscape:window-x="1920"
+     inkscape:window-y="280"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg838" />
+  <path
+     d="m 24.446378,13.996487 v -3.73 h 3.73 v 3.73 z"
+     fill="url(#paint0_linear)"
+     id="path825"
+     style="fill:url(#paint0_linear)" />
+  <defs
+     id="defs836">
+    <linearGradient
+       id="paint0_linear"
+       x1="195.011"
+       y1="20.537201"
+       x2="202.186"
+       y2="20.530199"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-172.79762,-10.003513)">
+      <stop
+         offset="0.197917"
+         stop-color="#B16CEA"
+         id="stop827" />
+      <stop
+         offset="0.557292"
+         stop-color="#FF5E69"
+         id="stop829" />
+      <stop
+         offset="0.828125"
+         stop-color="#FF8A56"
+         id="stop831" />
+      <stop
+         offset="1"
+         stop-color="#FFA84B"
+         id="stop833" />
+    </linearGradient>
+  </defs>
+  <text
+     xml:space="preserve"
+     style="font-size:18.6667px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Normal'"
+     x="-1.4186692"
+     y="13.738691"
+     id="text844"><tspan
+       sodipodi:role="line"
+       id="tspan842"
+       x="-1.4186692"
+       y="13.738691"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Gotham Medium';-inkscape-font-specification:'Gotham Medium, ';fill:#ffffff">rfc</tspan></text>
+</svg>
